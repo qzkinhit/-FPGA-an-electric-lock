@@ -1,4 +1,4 @@
-# -FPJA-
+# -FPGA-
 本工程使用vivado编程，语言为verilog语言
 本项目是基于verilog语言设计的电子密码锁，所用芯片为XILINX的xc7a35tcsg324-3型号，flash型号为N25Q64电压为3.3V.
 5.1	功能包括了所有要求的指定基本功能。包括：
